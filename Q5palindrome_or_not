@@ -1,0 +1,18 @@
+# string=input()
+# rev_string=""
+# for i in range(len(string)-1,-1,-1):
+#     rev_string=rev_string+string[i]
+# if rev_string==string:
+#     print("it is a palindrome")
+# else:
+#     print("it is not a palindrome")     
+
+string = (input())
+rev_string=""
+for i in range(len(string)-1,-1,-1):
+     rev_string=rev_string+string[i]
+if rev_string==string:
+    print("String is a palindrome")
+else:
+    print("String is not a palindrome")
+

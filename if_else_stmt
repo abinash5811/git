@@ -1,0 +1,19 @@
+# int1=int(input())
+# print("it is even") if (int1%2==0) else print("odd")
+
+#elif condition
+
+# mark=int(input("enter a number:"))
+
+# if (mark >=90 and mark<=100):
+#     print("grade is A")
+# elif (mark >=75 and mark<=100):  
+#     print("grade is B")  
+# else:
+#     grade="unknown"    
+
+# print("grade is",grade)
+
+toppings=["pepproni","mushrooms","olives","sausage"]
+# print(toppings.append("onions"))
+toppings.append("onions")
